@@ -91,7 +91,6 @@ function randomObstacles() {
   console.log(dfsTiles)
 }
 
-
 const startNode = document.getElementById('dfsgameRow-0-tile-0')
 const endNode = document.getElementById('dfsgameRow-19-tile-19')
 startNode.classList.add('start')
