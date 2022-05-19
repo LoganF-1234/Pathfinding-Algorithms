@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "name": "Extension",
+      "type": "extensionHost",
+      "request": "launch",
+      "runtimeExecutable": "${execPath}",
+      "args": [
+        "--extensionDevelopmentPath=${workspaceFolder}"
+      ],
+      "outFiles": [
+        "${workspaceFolder}/out/**/*.js"
+      ]
+    },
+    {
+      "type": "pwa-msedge",
+      "name": "http://127.0.0.1:5500/html/index.html",
+      "request": "launch",
+      "url": "http://127.0.0.1:5500/html/index.html"
+    }
+  ]
+}
