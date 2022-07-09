@@ -4,4 +4,4 @@ Create your own maze or generate a pre-made one using the randomObstacles button
 ### Development
 This application was developed using vanilla JavaScript with HTML and CSS as the frontend. The IDE I used was Visual Studio Code with Live Server to make testing seemless.
 
-Play here: http://loganferrera.com/algorithms
+Play here: https://loganferrera.com/html/algorithms.html
